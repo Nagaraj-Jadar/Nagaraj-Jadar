@@ -1,4 +1,4 @@
-<h1 align="center">👋 Hello, I'm Nagu (Nagaraj Jadar)!</h1>
+<h1 align="center">👋 Hello, I'm Nagaraj Jadar </h1>
 
 <p align="center">
   <b>Java Backend Developer | Tech Enthusiast | Problem Solver</b>
