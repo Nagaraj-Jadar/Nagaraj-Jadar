@@ -1,25 +1,32 @@
-### 👋 Hello, I'm Nagu (Nagaraj Jadar)!
+<h1 align="center">👋 Hello, I'm Nagu (Nagaraj Jadar)!</h1>
 
-I am a **Java Backend Developer in the making**, passionate about **building efficient, scalable, and user-friendly applications**. My journey revolves around coding, problem-solving, and continuous learning. 
-
-🚀 **Currently Working On:** Spring Boot projects, refining my backend development skills.  
-🌍 **Looking to Collaborate On:** Open-source contributions & GSoC organizations.  
-📖 **Currently Learning:** Spring Boot, Microservices, and Cloud Deployments.  
-💡 **What Drives Me:** I enjoy crafting robust applications that make an impact.  
-📊 **Tech Enthusiast:** Skilled in Java, Spring MVC, REST APIs, and Database Management.  
-🛠️ **DevOps Knowledge:** Working with Jenkins, Git, and version control systems.  
-📚 **Always Learning:** Exploring new frameworks, tools, and best practices.  
-🏏 **Beyond Coding:** A passionate cricket fan who loves strategy both in games and on the field!  
-🌟 **Opportunities:** Open to exciting roles and challenges in software development.  
+<p align="center">
+  <b>Java Backend Developer | Tech Enthusiast | Problem Solver</b>
+</p>
 
 ---
 
-### 🌐 Portfolio  
-🚀 **Explore My Work:** [nagaraj-jadar.github.io](https://nagaraj-jadar.github.io/)  
+## 🚀 About Me
+
+- 🔭 Currently working on **Spring Boot projects**, refining my backend development skills.
+- 🌍 Looking to collaborate on **open-source contributions & GSoC organizations**.
+- 📖 Currently exploring **Microservices & Cloud Deployments**.
+- 💡 Passionate about **building scalable and user-centric applications**.
+- 🛠️ Skilled in **Java, Spring MVC, REST APIs, and Database Management**.
+- 📊 Experience with **Git, Jenkins, and DevOps tools**.
+- 🏏 Cricket enthusiast who enjoys strategy both in tech and on the field!
+- 🌟 Open to **exciting opportunities and challenges** in software development.
 
 ---
 
-### 💻 Tech Stack  
+## 🌐 Portfolio  
+<p align="center">
+  🚀 <a href="https://nagaraj-jadar.github.io/" target="_blank"><img src="https://img.shields.io/badge/My%20Portfolio-000?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Portfolio" /></a>
+</p>
+
+---
+
+## 💻 Tech Stack  
 <p align="center">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
@@ -39,6 +46,16 @@ I am a **Java Backend Developer in the making**, passionate about **building eff
 
 ---
 
-### 📫 Connect with Me
-- 💼 [LinkedIn](https://www.linkedin.com/in/nagaraj-jadar/)
-- 📧 Email: nagarajbjadar@gmail.com
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Nagaraj-Jadar&show_icons=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nagaraj-Jadar&theme=radical" alt="GitHub Streak" />
+</p>
+
+---
+
+## 📫 Connect with Me
+<p align="center">
+  <a href="https://www.linkedin.com/in/nagaraj-jadar/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:nagarajbjadar@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</p>
